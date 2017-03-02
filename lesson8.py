@@ -30,5 +30,3 @@ def read_data(filename):
     return lines
 
 read_data('age.txt')
-#TODO lav chi
-#print(lines)
